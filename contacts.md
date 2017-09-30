@@ -13,6 +13,9 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 ## Email
 faatihrifqi@gmail.com
 
+## GitHub
+[https://github.com/faatihrifqi](https://github.com/faatihrifqi)
+
 ## Facebook
 [https://web.facebook.com/faatih.rifqimuqaffi](https://web.facebook.com/faatih.rifqimuqaffi)
 
