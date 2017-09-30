@@ -24,7 +24,7 @@ description: Personal web blog and portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "https://faatihrifqi.github.io/aboutme"
-  Portofolio : "https://faatihrifqi.github.io/portfolio"
+  Portfolio : "https://faatihrifqi.github.io/portfolio"
   Contacts: "https://faatihrifqi.github.io/contacts"
 
 # Image to show in the navigation bar - image must be a square (width = height)
