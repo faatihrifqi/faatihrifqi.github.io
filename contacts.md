@@ -14,7 +14,7 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 faatihrifqi@gmail.com
 
 ## Facebook
-https://web.facebook.com/faatih.rifqimuqaffi
+[https://web.facebook.com/faatih.rifqimuqaffi](https://web.facebook.com/faatih.rifqimuqaffi)
 
 ## Instagram
-https://www.instagram.com/faatihrm/
+[https://www.instagram.com/faatihrm/](https://www.instagram.com/faatihrm/)
