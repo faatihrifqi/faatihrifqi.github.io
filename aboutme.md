@@ -5,13 +5,13 @@ subtitle: Electrical Engineer, Android Developer, Freelancer, and Sleeper
 use-site-title: true
 ---
 
-Hi there this blog all about me and my little stories. Thanks for visiting my blog, please get in touch with me if you had a question or just needing my little help. I would be glad if we could build something cool.
+Hi there, this blog is all about me and my little stories. Thanks for visiting my blog, please get in touch with me if you had a question or just needing my little help. I would be glad if we could build something cool.
 
 ## Skills
 I professionally develop Android applications from the ground up, and follow Google’s Design Guidelines to make beautiful UI/UX.
 
 ## Hobby
-I love build electronic and programming stuff, especially implementation of IoT.
+I love build electronic and do programming stuff, especially implementation of IoT.
 
 ## Basic Kowledge
 - C
@@ -26,7 +26,3 @@ I love build electronic and programming stuff, especially implementation of IoT.
 - Raspberry Pi
 - Python
 - MySQL
-
-### my history
-
-#To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
