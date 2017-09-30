@@ -100,7 +100,7 @@ url-pretty: "https://faatihrifqi.github.io/"  # eg. "deanattali.com/beautiful-je
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-107332907-1"
 
 # Google Tag Manager ID
 #gtm: ""
