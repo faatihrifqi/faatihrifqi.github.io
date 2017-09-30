@@ -17,14 +17,15 @@ baseurl: ""
 title: Faatih Rifqi Muqaffi
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Personal web blog and portfolio
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "https://faatihrifqi.github.io/aboutme"
-  Contact: "http://deanattali.com"
+  Portofolio : "https://faatihrifqi.github.io/portfolio"
+  Contacts: "https://faatihrifqi.github.io/contacts"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,7 +68,7 @@ footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -85,7 +86,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
