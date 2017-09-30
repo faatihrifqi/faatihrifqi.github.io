@@ -1,16 +1,32 @@
 ---
 layout: page
 title: About me
-#subtitle: Why you'd want to go on a date with me
+subtitle: Electrical Engineer, Android Developer, Freelancer, and Sleeper
+use-site-title: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi there this blog all about me and my little stories. Thanks for visiting my blog, please get in touch with me if you had a question or just needing my little help. I would be glad if we could build something cool.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Skills
+I professionally develop Android applications from the ground up, and follow Google’s Design Guidelines to make beautiful UI/UX.
 
-What else do you need?
+## Hobby
+I love build electronic and programming stuff, especially implementation of IoT.
+
+## Basic Kowledge
+- C
+- C++
+- Node Js
+- PHP
+
+## Intermediate Knowledge
+- Android
+- Java
+- Arduino
+- Raspberry Pi
+- Python
+- MySQL
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
