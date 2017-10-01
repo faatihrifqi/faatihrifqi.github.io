@@ -26,3 +26,9 @@ I love build electronic and do programming stuff, especially implementation of I
 - Raspberry Pi
 - Python
 - MySQL
+
+## Achievements
+- Speaker at Seminar HUAWEI – UNPAD TECH DAY, UNPAD - 2017
+- 2th Internet of Things Innovation Challenge, ITB - 2016
+- Participant Kontes Robot Indonesia Nasional - Robot Pemadam Api, Kemenristekdikti - 2017
+- Finalist Electromedical Innovation Competition, UMY - 2017
