@@ -11,7 +11,7 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 I professionally develop Android applications from the ground up, and follow Google’s Design Guidelines to make beautiful UI/UX.
 
 ## Hobby
-I love build electronic and do programming stuff, especially implementation of IoT.
+I love build electronic things and do programming stuff, especially implementation of IoT, AI and Robotics.
 
 ## Basic Kowledge
 - C
