@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Electrical Engineer, Android Developer, Freelancer, and Sleeper
+subtitle: Electronic Hobbyist, Android Developer, Electrical Engineer, Freelancer, and Sleeper
 use-site-title: true
 ---
 
