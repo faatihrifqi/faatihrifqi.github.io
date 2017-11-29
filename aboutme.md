@@ -14,21 +14,24 @@ I professionally develop Android applications from the ground up, and follow Goo
 I love build electronic things and do programming stuff, especially implementation of IoT, AI and Robotics.
 
 ## Basic Kowledge
-- C
-- C++
 - Node Js
 - PHP
 
 ## Intermediate Knowledge
-- Android
+- C
+- C++
+- Android (Java & XML)
 - Java
 - Arduino
 - Raspberry Pi
 - Python
 - MySQL
+- NoSQL
 
 ## Achievements
+- Gold Medal at International Invention & Innovative Competition, Malaysia - 2017
+- 3th at Telkom University Internet of Things Competition, Telkom University - 2016
 - Speaker at Seminar HUAWEI – UNPAD TECH DAY, UNPAD - 2017
-- 2th Internet of Things Innovation Challenge, ITB - 2016
 - Participant Kontes Robot Indonesia Nasional - Robot Pemadam Api, Kemenristekdikti - 2017
 - Finalist Electromedical Innovation Competition, UMY - 2017
+- 2th at Internet of Things Innovation Challenge, ITB - 2016
