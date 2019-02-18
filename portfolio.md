@@ -15,3 +15,18 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 | [O’Reilly And Intel AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-eu/schedule/2018-10-09) |  Demo: Deep Webcare Chatbot |  London, (October, 2018) |
 | [PiterPy 2018](https://piterpy.com/materials/2452)  | High-Frequency Cryptocurrency Trading using AsyncIO  |  St. Petersburg (November, 2018) |
 | [Big Data Vilnius 2018 Conference](http://www.bigdataconference.lt)  |  When To Use Machine Learning: Tips, Tricks And Warnings |  Lithuania (November, 2018) |
+
+<table border="0">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
