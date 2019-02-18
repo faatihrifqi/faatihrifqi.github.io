@@ -9,22 +9,9 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 # I'm sorry, I'll add portfolio soon.
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-<p align="center">
- <div class="column" width="100">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" width="100">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" width="100">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
-  </div>
-</p>
+| Event  | Title  | When  |
+|---|---|---|
+| [PyCode Conference 2018](https://pycode-conference.org/)  | High-Frequency Cryptocurrency Trading using AsyncIO  |  Poland (October, 2018) |
+| [O’Reilly And Intel AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-eu/schedule/2018-10-09) |  Demo: Deep Webcare Chatbot |  London, (October, 2018) |
+| [PiterPy 2018](https://piterpy.com/materials/2452)  | High-Frequency Cryptocurrency Trading using AsyncIO  |  St. Petersburg (November, 2018) |
+| [Big Data Vilnius 2018 Conference](http://www.bigdataconference.lt)  |  When To Use Machine Learning: Tips, Tricks And Warnings |  Lithuania (November, 2018) |
