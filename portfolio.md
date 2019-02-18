@@ -15,15 +15,15 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 | git diff | Show file differences that haven't been staged |
 
 <p align="center">
- <div class="column" style="background-color:#aaa;">
+ <div class="column" width="100">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;>
+  <div class="column" width="100">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#ccc;>
+  <div class="column" width="100">
     <h2>Column 3</h2>
     <p>Some text..</p>
   </div>
