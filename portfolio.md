@@ -13,6 +13,6 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 | ![Spikup](https://smarttambak.000webhostapp.com/portfolio/spikup/spikup01.png)  | ![Pos S-Mart](https://smarttambak.000webhostapp.com/portfolio/possmart/possmart01.png) | ![Gorjes Travel](https://smarttambak.000webhostapp.com/portfolio/gorjes/gorjes01.png) |
 | [Spikup](https://play.google.com/store/apps/details?id=id.spikup.app) | [Pos S-Mart](https://play.google.com/store/apps/details?id=com.pos_smart.tritech) | [Gorjes Travel]() |
 | ![Ajk](https://smarttambak.000webhostapp.com/portfolio/ajk/ajk01.png)  | ![Djakarta Ekspress](https://smarttambak.000webhostapp.com/portfolio/djakartaexpress/ekspress01.png) | ![Pejuang Kamrussamad](https://smarttambak.000webhostapp.com/portfolio/kamrussamad/Screenshot_20190220-100244.png) |
-| [Ajk]() | [Djakarta Ekspress](https://play.google.com/store/apps/details?id=co.id.djakartaekspress.kurir) | [Pejuang Kamrussamad](https://play.google.com/store/apps/details?id=com.pejuangks) |
+| [Ajk](https://play.google.com/store/apps/details?id=com.ajktrans.tritech) | [Djakarta Ekspress](https://play.google.com/store/apps/details?id=co.id.djakartaekspress.kurir) | [Pejuang Kamrussamad](https://play.google.com/store/apps/details?id=com.pejuangks) |
 | ![Smart Garden](https://smarttambak.000webhostapp.com/portfolio/smartgarden/smartgarden01.png)  | ![]() | ![]() |
 | [Smart Garden]() | []() | []() |
