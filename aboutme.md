@@ -30,9 +30,9 @@ I love build electronic things and do programming stuff, especially implementati
 
 ## Achievements
 - Gold Medal at International Invention & Innovative Competition, Malaysia - 2017
-- 2th at Internet of Things Innovation Challenge, ITB - 2016
-- 3th at Telkom University Internet of Things Competition, Telkom University - 2016
-- Lolos didanai PKM KC dengan judul LINE Urgent - 2018
+- 2nd at Internet of Things Innovation Challenge, ITB - 2016
+- 3rd at Telkom University Internet of Things Competition, Telkom University - 2016
+- Funded at Program Kreativitas Mahasiswa Karsa Cipta (PKM-KC) with project LINE Urgent - 2018
 - Speaker at Seminar HUAWEI – UNPAD TECH DAY, UNPAD - 2017
-- Participant Kontes Robot Indonesia Nasional - Robot Pemadam Api, Kemenristekdikti - 2017
-- Finalist Electromedical Innovation Competition, UMY - 2017
+- Participant at Kontes Robot Indonesia Nasional - Fire Fighter Robot, Kemenristekdikti - 2017
+- Finalist at Electromedical Innovation Competition, UMY - 2017
