@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Electronic Hobbyist, Android Developer, Electrical Engineer, Freelancer, and Sleeper
+subtitle: Data Scientist, Data Analyst, Electronic Hobbyist, Android Developer, Electrical Engineer, Freelancer
 use-site-title: true
 ---
 
 Hi there, this blog is all about me and my little stories. Thanks for visiting my blog, please get in touch with me if you had a question or just needing my little help. I would be glad if we could build something cool.
+
+## Machine Learning
+
+- [Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007), Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
+- [Predict House Price](https://github.com/faatihrifqi/Predict-House-Price), Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
+
+## Android
 
 | ![Smart Tambak](https://smarttambak.000webhostapp.com/portfolio/smart_tambak/01.png)  | ![Jimath](https://smarttambak.000webhostapp.com/portfolio/jimath/jimath01.png) | ![Grosir Rotan Furniture](https://smarttambak.000webhostapp.com/portfolio/rotanfurniture/rotan01.png) |
 | :---: | :---: | :---: |
