@@ -9,8 +9,18 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 ## Machine Learning
 
-- [Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007), Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
-- [Predict House Price](https://github.com/faatihrifqi/Predict-House-Price), Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
+- [Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007): Multilabel Image Classification. Applying transfer learning (pretrained deep learning model) to Pascal VOC 2007 dataset. Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
+- [Predict House Price](https://github.com/faatihrifqi/Predict-House-Price): Applying regression model to predict house price based on King Country dataset. Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
+
+## Robotic
+
+- **Firefighter Robot**: Robot with 6 legs (spider-like) designed to find and put out the fire in a maze. Built with various sensors and controlled by Arduino Microcontroller. 
+
+## Internet of Things
+
+- **Smart Tambak**: Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help fish farmers in monitoring and controlling their ponds with ability to detect Umbalan (natural disaster which cause billions of fish deaths).
+- **Smart Garden**: Smart Sysem Based on Internet of Things Designed for Gardening. Realtime controlling and monitoring plants in garden.
+- **i-Mah**: Smart Sysem Based on Internet of Things Designed for Home. Implementation of Smart Home with efficients networking architecture.
 
 ## Android
 
