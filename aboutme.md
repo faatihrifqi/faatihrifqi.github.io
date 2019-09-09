@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Electronic Hobbyist, Android Developer, Electrical Engineer, Freelancer, and Sleeper
+subtitle: Data Scientist, Data Analyst, Electronic Hobbyist, Android Developer, Electrical Engineer, Freelancer
 use-site-title: true
 ---
 
@@ -18,9 +18,12 @@ I love build electronic things and do programming stuff, especially implementati
 - PHP
 
 ## Intermediate Knowledge
+- Machine Learning
+- Deep Learning
 - C
 - C++
-- Android (Java & XML)
+- Android (Kotlin, Java & XML)
+- Flutter (Dart)
 - Java
 - Arduino
 - Raspberry Pi
