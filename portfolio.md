@@ -27,16 +27,20 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 - **[Smart Tambak](https://play.google.com/store/apps/details?id=com.faatih.smarttambak)**
 
-<p float="center">
-  <img src="https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw" width="100" />
-  <img src="https://lh3.googleusercontent.com/TMZL-h0wyKp4kY2Vd7q002tJZCEAWUGIPUQJ9i1nbyx16Ub2YY2f86b7oBxtEtRKtmo=w720-h310-rw" width="100" /> 
-  <img src="https://lh3.googleusercontent.com/a7sQ9uFHcd0u_kyd9V1kiSzHQ1_Zv-qBNyS_tIukRA92U-0tYNWKtt6_iq3UMb9vHU4=w720-h310-rw" width="100" />
-</p>
-
 ![](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw) ![](https://lh3.googleusercontent.com/TMZL-h0wyKp4kY2Vd7q002tJZCEAWUGIPUQJ9i1nbyx16Ub2YY2f86b7oBxtEtRKtmo=w720-h310-rw) ![](https://lh3.googleusercontent.com/a7sQ9uFHcd0u_kyd9V1kiSzHQ1_Zv-qBNyS_tIukRA92U-0tYNWKtt6_iq3UMb9vHU4=w720-h310-rw)
 
 Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help fish farmers in monitoring and controlling their ponds with ability to detect Umbalan (natural disaster which cause billions of fish deaths).
+
+- **[AJK Trans](https://play.google.com/store/apps/details?id=com.ajktrans.tritech)**
+
+![](https://lh3.googleusercontent.com/14qLHtHTsFQVJFAiyb2fT1lXL9mzBE8yp1uWU3a_4JUAp3ZHV3mZczbQ9_zzIAKDuw=w720-h310-rw) ![](https://lh3.googleusercontent.com/jjVqyJZQ3P2xlwktwOSuT5y6hZuOdm_des_TCwU263BO74yBmzfpfAUPfQ05I7e9BZQ=w720-h310-rw) ![](https://lh3.googleusercontent.com/LE2pZvyAO9l8fhDC056-4QKaf0k5OzWv8I_D_VfqI2MNoCdrmT5iLfAFSW_oAn8LgQ=w720-h310-rw)
+
+Aplikasi AJK Trans adalah aplikasi untuk pemesanan armada untuk layanan Drop, Half Day dan Full Day, dengan rute ke seluruh kota besar di Indonesia.
+
 - **Smart Garden**: Smart Sysem Based on Internet of Things Designed for Gardening. Realtime controlling and monitoring plants in garden.
+
+
+
 - **i-Mah**: Smart Sysem Based on Internet of Things Designed for Home. Implementation of Smart Home with efficients networking architecture.
 
 | ![Smart Tambak](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw)  | ![Jimath](https://lh3.googleusercontent.com/VZznRRkqhLmzej_EEJvfqHQQeIsL1KQSOZpwfPXgwA8YrE1ieOCHB-H1b_hMK7I9HzA=w720-h310-rw) | ![Grosir Rotan Furniture](https://lh3.googleusercontent.com/IBhsVVqfwpy0jwxmTsEkrMRndj4VTtWkxagLgPGLGAvwK0mqUZbHrLFWmp_i2tu2SCU=w720-h310-rw) |
