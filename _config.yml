@@ -54,11 +54,11 @@ avatar: "/img/F.jpg"
 author:
   name: Faatih Rifqi Muqaffi
   email: "faatihrifqi@gmail.com"
-  facebook: faatih.rifqimuqaffi  # eg. daattali
+  facebook: yourname  # eg. daattali
   github: faatihrifqi    # eg. daattali
   twitter: yourname   # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: faatihrm  # eg. daattali
   instagram: faatihrm # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   telephone: 089611254663   # eg. +14159998888
@@ -66,13 +66,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -87,7 +87,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
