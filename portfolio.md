@@ -11,7 +11,7 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 - [Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007): Multilabel Image Classification. Applying transfer learning (pretrained deep learning model) to Pascal VOC 2007 dataset. Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
 - [Predict House Price](https://github.com/faatihrifqi/Predict-House-Price): Applying regression model to predict house price based on King Country dataset. Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
-- [Shopee Code League 2020 - Logistics]: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with each individual Logistics Provider.
+- **Shopee Code League 2020 - Logistics**: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with each individual Logistics Provider.
 
 ## Robotic
 
