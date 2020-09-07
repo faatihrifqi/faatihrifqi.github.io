@@ -25,6 +25,10 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 ## Android
 
+- **[Smart Tambak](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw)**: Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help fish farmers in monitoring and controlling their ponds with ability to detect Umbalan (natural disaster which cause billions of fish deaths).
+- **Smart Garden**: Smart Sysem Based on Internet of Things Designed for Gardening. Realtime controlling and monitoring plants in garden.
+- **i-Mah**: Smart Sysem Based on Internet of Things Designed for Home. Implementation of Smart Home with efficients networking architecture.
+
 | ![Smart Tambak](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw)  | ![Jimath](https://lh3.googleusercontent.com/VZznRRkqhLmzej_EEJvfqHQQeIsL1KQSOZpwfPXgwA8YrE1ieOCHB-H1b_hMK7I9HzA=w720-h310-rw) | ![Grosir Rotan Furniture](https://lh3.googleusercontent.com/IBhsVVqfwpy0jwxmTsEkrMRndj4VTtWkxagLgPGLGAvwK0mqUZbHrLFWmp_i2tu2SCU=w720-h310-rw) |
 | :---: | :---: | :---: |
 | [Smart Tambak](https://play.google.com/store/apps/details?id=com.faatih.smarttambak) | [Jimath](https://play.google.com/store/apps/details?id=com.jimath.jimath) | [Grosir Rotan Furniture](https://play.google.com/store/apps/details?id=top.grosir.rotan.ekatalog) |
