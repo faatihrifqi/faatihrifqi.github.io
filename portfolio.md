@@ -32,4 +32,4 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 | ![Ajk](https://smarttambak.000webhostapp.com/portfolio/ajk/ajk01.png)  | ![Djakarta Ekspress](https://smarttambak.000webhostapp.com/portfolio/djakartaexpress/ekspress01.png) | ![Pejuang Kamrussamad](https://smarttambak.000webhostapp.com/portfolio/kamrussamad/Screenshot_20190220-100244.png) |
 | [Ajk](https://play.google.com/store/apps/details?id=com.ajktrans.tritech) | [Djakarta Ekspress](https://play.google.com/store/apps/details?id=co.id.djakartaekspress.kurir) | [Pejuang Kamrussamad](https://play.google.com/store/apps/details?id=com.pejuangks) |
 | ![Smart Garden](https://smarttambak.000webhostapp.com/portfolio/smartgarden/smartgarden01.png)  | ![]() | ![]() |
-| [Smart Garden]() | ![E-Commerce](https://i.imgur.com/S8hv4Li.png) | []() |
+| [Smart Garden]() | ![E-Commerce](https://i.imgur.com/S8hv4Li.png =720x310) | []() |
