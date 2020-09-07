@@ -25,6 +25,12 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 ## Android
 
+- **[Part Encylopedia](https://play.google.com/store/apps/details?id=com.faatih.partsencyclopedia)**
+
+![](https://lh3.googleusercontent.com/Ex8gyYxcd-c9sRdhpkaDO0LR0A5C2fvvbUCp7g13i49w7keRAxqH3mopAg-qEJ1SXg=w720-h310-rw) ![](https://lh3.googleusercontent.com/96eeA73T4HuraNZYTp-NyzXeQErNPcCq9bjuqxQCPhD0PlSAQcQrIknj_cFm8NDuTpvC=w720-h310-rw) ![](https://lh3.googleusercontent.com/iForDWoZsuj5O8uXqaJUanBn2QJvBuTkc0we55Ne4aHxGw8nOu-K-sLh4q-xL07l7QA=w720-h310-rw)
+
+Part Encyclopedia is an open platform that connects a bunch of data to its images. A platform that everyone collaboratively shares their images to society or their group with the same database.
+
 - **[Smart Tambak](https://play.google.com/store/apps/details?id=com.faatih.smarttambak)**
 
 ![](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw) ![](https://lh3.googleusercontent.com/TMZL-h0wyKp4kY2Vd7q002tJZCEAWUGIPUQJ9i1nbyx16Ub2YY2f86b7oBxtEtRKtmo=w720-h310-rw) ![](https://lh3.googleusercontent.com/a7sQ9uFHcd0u_kyd9V1kiSzHQ1_Zv-qBNyS_tIukRA92U-0tYNWKtt6_iq3UMb9vHU4=w720-h310-rw)
