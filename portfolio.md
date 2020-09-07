@@ -27,7 +27,7 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 - **[Smart Tambak](https://play.google.com/store/apps/details?id=com.faatih.smarttambak)**
 
-<p float="left">
+<p float="center">
   <img src="https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw" width="100" />
   <img src="https://lh3.googleusercontent.com/TMZL-h0wyKp4kY2Vd7q002tJZCEAWUGIPUQJ9i1nbyx16Ub2YY2f86b7oBxtEtRKtmo=w720-h310-rw" width="100" /> 
   <img src="https://lh3.googleusercontent.com/a7sQ9uFHcd0u_kyd9V1kiSzHQ1_Zv-qBNyS_tIukRA92U-0tYNWKtt6_iq3UMb9vHU4=w720-h310-rw" width="100" />
