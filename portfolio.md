@@ -9,8 +9,8 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 ## Machine Learning
 
-- [Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007): Multilabel Image Classification. Applying transfer learning (pretrained deep learning model) to Pascal VOC 2007 dataset. Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
-- [Predict House Price](https://github.com/faatihrifqi/Predict-House-Price): Applying regression model to predict house price based on King Country dataset. Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
+- **[Pascal VOC 2007](https://github.com/faatihrifqi/Pascal-VOC-2007)**: Multilabel Image Classification. Applying transfer learning (pretrained deep learning model) to Pascal VOC 2007 dataset. Final project on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University 
+- **[Predict House Price](https://github.com/faatihrifqi/Predict-House-Price)**: Applying regression model to predict house price based on King Country dataset. Middle test on DIGITALENT Machine Learning training held by KOMINFO @ Telkom University
 - **Shopee Code League 2020 - Logistics**: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with each individual Logistics Provider.
 
 ## Robotic
@@ -25,7 +25,7 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 ## Android
 
-- **[Smart Tambak](https://lh3.googleusercontent.com/gnnd0Y3JmkZsR9X9DPy4cumW6t7Hp0h03xhE0QF_aGEK2ELnrqqy16YAFJibfQVToVk=w720-h310-rw)**: Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help fish farmers in monitoring and controlling their ponds with ability to detect Umbalan (natural disaster which cause billions of fish deaths).
+- **[Smart Tambak](https://play.google.com/store/apps/details?id=com.faatih.smarttambak)**: Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help fish farmers in monitoring and controlling their ponds with ability to detect Umbalan (natural disaster which cause billions of fish deaths).
 - **Smart Garden**: Smart Sysem Based on Internet of Things Designed for Gardening. Realtime controlling and monitoring plants in garden.
 - **i-Mah**: Smart Sysem Based on Internet of Things Designed for Home. Implementation of Smart Home with efficients networking architecture.
 
