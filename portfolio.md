@@ -27,7 +27,11 @@ Hi there, this blog is all about me and my little stories. Thanks for visiting m
 
 - **E-Commerce**: Sales monitoring and order taking app.
 
-![](https://i.imgur.com/nsj5B6F.jpeg) ![](https://i.imgur.com/So60FbP.jpg) ![](https://i.imgur.com/G9N1pr5.png)
+<p float="left">
+  <img src="https://i.imgur.com/nsj5B6F.jpeg" width="150" />
+  <img src="https://i.imgur.com/So60FbP.jpg" width="150" /> 
+  <img src="https://i.imgur.com/G9N1pr5.png" width="150" />
+</p>
 
 - **[Part Encylopedia](https://play.google.com/store/apps/details?id=com.faatih.partsencyclopedia)**: Part Encyclopedia is an open platform that connects a bunch of data to its images. A platform that everyone collaboratively shares their images to society or their group with the same database.
 
