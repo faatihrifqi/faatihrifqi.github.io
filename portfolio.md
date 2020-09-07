@@ -37,6 +37,12 @@ Smart Sysem Based on Internet of Things Designed for Aquaculture. Built to help 
 
 Aplikasi AJK Trans adalah aplikasi untuk pemesanan armada untuk layanan Drop, Half Day dan Full Day, dengan rute ke seluruh kota besar di Indonesia.
 
+- **[JiMath](https://play.google.com/store/apps/details?id=com.jimath.jimath)**
+
+![](https://lh3.googleusercontent.com/VZznRRkqhLmzej_EEJvfqHQQeIsL1KQSOZpwfPXgwA8YrE1ieOCHB-H1b_hMK7I9HzA=w720-h310-rw) ![](https://lh3.googleusercontent.com/duSUL88KojwSch1XTM_XjR1RXrD-8WFsCSFeBWsx9dbsoQXozSJh7apXMFFKlqJ5vxZu=w720-h310-rw) ![](https://lh3.googleusercontent.com/6sv7JMM-nTqkjfhbWhG6JRdkpM4cUqezp_y9EGiHvavSswBFS92ODYLNlOj5k2OHD4s=w720-h310-rw)
+
+Aplikasi pembelajaran matematika yang dibuat supaya asik dan interaktif, disertai dengan Materi, Video, Latihan Soal dan Wawasan seputar sejarah matematika.
+
 - **Smart Garden**: Smart Sysem Based on Internet of Things Designed for Gardening. Realtime controlling and monitoring plants in garden.
 
 
